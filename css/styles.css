@@ -172,7 +172,7 @@ nav a:hover {
 	margin-top: -7px;
 	background: url(../img/work_bg.png) repeat;
 	width: 100%;
-	height: 950px;
+	height: 900px;
 	position: relative;
 	z-index: 400;
 }
@@ -336,6 +336,12 @@ span.ss_text {
 	height: 120px;
 	margin-left: 80px;
 }
+.screenshot13 {
+	background: url(../img/screenshot13.png) no-repeat;
+	width: 160px;
+	height: 120px;
+	margin-left: 80px;
+}
 .ss {
 	-webkit-box-shadow: 0px 0px 0px 1px #d9d7d7;
 	-moz-box-shadow: 0px 0px 0px 1px #d9d7d7;
@@ -375,7 +381,7 @@ span.ss_text {
 
 #publications {
 	width: 100%;
-	height: 2450px;
+	height: 2650px;
 	background-color: #fff;
 	position: relative;
 	z-index: 400;
