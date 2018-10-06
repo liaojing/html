@@ -319,7 +319,7 @@ span.ss_text {
 	margin-left: 80px;
 }
 .screenshot10 {
-	background: url(../img/screenshot10.png) no-repeat;
+	background: url(../img/screenshot10.gif) no-repeat;
 	width: 160px;
 	height: 120px;
 	margin-left: 80px;
@@ -338,6 +338,37 @@ span.ss_text {
 }
 .screenshot13 {
 	background: url(../img/screenshot13.png) no-repeat;
+	width: 160px;
+	height: 120px;
+	margin-left: 80px;
+}
+.screenshot14 {
+	background: url(../img/screenshot14.png) no-repeat;
+	width: 160px;
+	height: 120px;
+	margin-left: 80px;
+}
+.screenshot15 {
+	background: url(../img/screenshot15.gif) no-repeat;
+	width: 160px;
+	height: 120px;
+	margin-left: 80px;
+}
+.screenshot16 {
+	background: url(../img/screenshot16.png) no-repeat;
+	width: 160px;
+	height: 120px;
+	margin-left: 80px;
+}
+
+.screenshot17 {
+	background: url(../img/screenshot17.png) no-repeat;
+	width: 160px;
+	height: 120px;
+	margin-left: 80px;
+}
+.screenshot18 {
+	background: url(../img/screenshot18.png) no-repeat;
 	width: 160px;
 	height: 120px;
 	margin-left: 80px;
@@ -381,7 +412,7 @@ span.ss_text {
 
 #publications {
 	width: 100%;
-	height: 3100px;
+	height: 3500px;
 	background-color: #fff;
 	position: relative;
 	z-index: 400;
