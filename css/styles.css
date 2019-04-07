@@ -373,6 +373,39 @@ span.ss_text {
 	height: 120px;
 	margin-left: 80px;
 }
+
+.screenshot19 {
+	background: url(../img/screenshot19.png) no-repeat;
+	width: 160px;
+	height: 120px;
+	margin-left: 80px;
+}
+.screenshot20 {
+	background: url(../img/screenshot20.png) no-repeat;
+	width: 160px;
+	height: 120px;
+	margin-left: 80px;
+}
+.screenshot21{
+	background: url(../img/screenshot21.png) no-repeat;
+	width: 160px;
+	height: 120px;
+	margin-left: 80px;
+}
+.screenshot22 {
+	background: url(../img/screenshot22.png) no-repeat;
+	width: 160px;
+	height: 120px;
+	margin-left: 80px;
+}
+.screenshot23 {
+	background: url(../img/screenshot23.gif) no-repeat;
+	width: 160px;
+	height: 120px;
+	margin-left: 80px;
+}
+=======
+>>>>>>> 7f0d8c37f1207f58772ec98cfb0fc71e84945fa5
 .ss {
 	-webkit-box-shadow: 0px 0px 0px 1px #d9d7d7;
 	-moz-box-shadow: 0px 0px 0px 1px #d9d7d7;
@@ -412,7 +445,7 @@ span.ss_text {
 
 #publications {
 	width: 100%;
-	height: 3500px;
+	height: 4050px;
 	background-color: #fff;
 	position: relative;
 	z-index: 400;
